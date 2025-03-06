@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Tutorial belajar react js fundamental",
+        "tags": ["react", "frontend"],
+        "date": "01-03-2025" 
+    },
+    {
+        "title": "Tutorial belajar nodejs lengkap",
+        "tags": ["node", "frontend"],
+        "date": "28-02-2025" 
+    },
+    {
+        "title": "cara menggunakan chakra-ui di react js",
+        "tags": ["react", "css"],
+        "date": "09-05-2025" 
+    }
+  
+]
